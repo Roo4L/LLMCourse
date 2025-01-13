@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "temperature": 1,
+    "top_p": 1,
+    "seed": null,
+    "n_completions": 3,
+    "max_tokens": 100
+  },
+  "results": [
+    {
+      "response_text": "Artificial intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using it), reasoning (using rules to reach approximate or definite conclusions) and self-correction. AI systems are designed to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.",
+      "logprobs": 

@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "temperature": 1,
+    "top_p": 1,
+    "seed": null,
+    "n_completions": 3,
+    "max_tokens": 100
+  },
+  "results": [
+    {
+      "response_text": "Artificial intelligence (AI) refers to the simulation of intelligent behaviors and thought processes in machines, typically computer systems. This involves developing algorithms and technology that can analyze data, learn from patterns, make decisions, and solve complex problems, all without human intervention. AI technologies have a wide range of applications, from virtual assistants like Siri and Alexa to self-driving cars and advanced medical diagnostics.",
+      "logprobs": 
